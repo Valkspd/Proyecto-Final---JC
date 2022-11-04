@@ -1,0 +1,69 @@
+.titulo{
+    background-color: lightslategrey;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color: rgb(226, 242, 255);
+}
+.contenedora2{
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.parrafo{
+    width: 35%;
+    font-family:'Mulish', sans-serif;
+}
+#as1,#as2,#as3{
+    margin: 50px;
+}
+.item{
+    margin: 20px;
+    padding: 20px;
+    float:left;
+    align-items: center;
+}
+.separacion{
+    height: 100px;
+    width: auto;
+    background-color:  rgb(226, 242, 255);
+}
+.x{
+    color:  rgb(226, 242, 255);
+}
+.sub{
+    background-color: lightslategrey;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color:  rgb(226, 242, 255);
+    padding: 10px;
+}
+.contenedora{
+    background-color: lightslategrey;
+    width: auto;
+    height: 450px;
+    padding: 40px;
+    font-family: 'Mulish', sans-serif;
+}
+.logo{
+    width: 35%;
+}
+.contacto{
+    text-align: center;
+}
+.sub2{
+    font-size: 30px;
+}
+.contenedora3{
+    background-color: lightslategrey;
+    padding: 40px;
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background-color: rgb(226, 242, 255);
+}
